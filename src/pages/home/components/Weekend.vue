@@ -31,7 +31,7 @@ export default {
     line-height: .8rem
     background: #eee
     text-indent: .2rem
-  .item-img-warpper
+  .item-img-wrapper
     overflow:hidden
     height: 0
     padding-bottom: 37.09%
